@@ -1,0 +1,5 @@
+my webapp project :
+  stage: build
+  script :
+    - npm install express
+    - node server.js
